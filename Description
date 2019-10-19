@@ -1,0 +1,19 @@
+Introduction
+	 	 	 	
+This project is aimed at developing a prototype model of the SmartCar. The features like parktronic system, automatic lightning, remote ignition, smart security system and computer interaction are implemented using various sensors. The simulation is based on Arduino Mega board and supplementary breadboard. The sensors introduced during the lab sessions as well as the ones that are new for students were used to implement the features of the smart car that were outlined in the project description. The main goal of the lab was successfully achieved.
+The practical importance of this project is that students learned to combine the knowledge acquired throughout the course and use it to create a single high-level product.
+
+Materials and Methods
+
+Arduino Board MEGA 2560
+1 x Breadboard 
+1 x VEX Ultrasonic Sonar - parktronic 
+Light Sensor - for day/night
+Barometer-BPM280 - for measuring the temperature
+Sunfounder RFID-RC522 with RFID Key Tag - for opening the door of the car, switching off security mode
+Buzzer - for sound
+1 x Push-Button - for ignition the car
+3 x LEDs (Red) - 2 for front headlights, 1 for security status
+Wires (F-M), (M-M), (F-F) - for connecting components with the breadboard and Arduino
+3 x Resistors 10k - for LEDs
+Carton box, marker, glue, sticky tape - for making design 
